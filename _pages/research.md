@@ -23,7 +23,6 @@ body_class: research-page
       <div style="margin-top: 4px; font-size: 14px;">
      (with <a href="https://nancywang3.github.io/" style="color: rgb(138, 36, 36); text-decoration: none;">Nancy Wang</a>)
    </div>
-      -->
     </div>
     <!-- Uncomment when you have a draft to post (put the file in /assets/papers/):
     <a href="/assets/papers/YOUR_PAPER.pdf" 
