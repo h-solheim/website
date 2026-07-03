@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://h-solheim.github.io/website/sitemap.xml
+Sitemap: https://hannahsolheim.com/sitemap.xml
