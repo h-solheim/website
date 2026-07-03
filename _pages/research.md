@@ -8,10 +8,10 @@ nav_order: 2
 body_class: research-page
 ---
 
-<h2 style="color: rgb(138, 36, 36); margin-top: 0em;font-size: 27px;">Working Papers</h2>
+<h2 style="color: rgb(138, 36, 36); margin-top: 0em;font-size: 27px;">Selected Works in Progress</h2>
 
 <!-- ============================================================
-     CARD 1: CPS Investigations project
+     CARD 1: Parasitic Content
      PLACEHOLDERS: exact title, coauthors (if any), abstract, PDF
      ============================================================ -->
 <div style="border: 1px solid #ccc; border-radius: 10px; padding: 16px; margin-bottom: 20px; background-color: #fafafa; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -19,12 +19,10 @@ body_class: research-page
   <div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
     <div>
       <div style="font-weight: bold; font-size: 16px;">
-        [Algorithms and Parasitic Content]
-      </div>
-      !-- Uncomment and edit if there are coauthors:
+        Algorithms and Parasitic Content
       <div style="margin-top: 4px; font-size: 14px;">
-        (with <a href="#" style="color: rgb(138, 36, 36); text-decoration: none;">Nancy Wang</a>)
-      </div>
+     (with <a href="https://nancywang3.github.io/" style="color: rgb(138, 36, 36); text-decoration: none;">Nancy Wang</a>)
+   </div>
       -->
     </div>
     <!-- Uncomment when you have a draft to post (put the file in /assets/papers/):
