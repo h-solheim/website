@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD candidate in economics at [Columbia University](https://econ.columbia.edu/), where I am supported by the [National Science Foundation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
+Hello! I am a PhD candidate in economics at [Columbia University](https://econ.columbia.edu/), where I am supported by the National Science Foundation.
 
 <!-- PLACEHOLDER: add a line about your pre-PhD background, e.g. undergrad institution/degree and any pre-doc experience -->
 
