@@ -16,11 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a PhD candidate in economics at Columbia University. My research interests include labor, public, and behavioral economics. My graduate studies are supported by the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP).
+Hello! I am an economics PhD student at [Columbia University](https://econ.columbia.edu/). My research interests include labor, public, and behavioral economics. My graduate studies are supported by the [National Science Foundation](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program).
 
-I graduated summa cum laude from the University of Oregon in 2019 with majors in mathematics and economics. Prior to starting my PhD, I worked as a pre-doctoral fellow at the National Bureau of Economic Research. 
-
-<!-- PLACEHOLDER: add a line about your pre-PhD background, e.g. undergrad institution/degree and any pre-doc experience -->s
+Before starting my PhD, I graduated summa cum laude from the [University of Oregon](https://www.uoregon.edu/) and worked as a pre-doctoral fellow at the [National Bureau of Economic Research](https://www.nber.org/).
 
 <!-- PLACEHOLDER (uncomment if applicable): -->
 <!-- **I will be on the 2027-2028 job market.** -->
